@@ -1,0 +1,86 @@
+h1 {
+    font-size: 40px;
+}
+
+img {
+    inline-size: 10%;
+    size-adjust: 50%;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    padding: auto;
+}
+
+body {
+    background-image: url(united.jpeg);
+    background-size: auto;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+}
+
+.Student {
+    color: rgb(218, 40, 40);
+}
+
+button {
+    background-color: crimson;
+    color: rgb(247, 244, 248);
+    padding: 10px;
+    margin: 5px 0px;
+    border: none;
+    cursor: pointer;
+    width: 49%;
+    border-radius: 5px;
+}
+
+button:hover {
+    opacity: 0.7;
+}
+
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    margin: 10px 5px;
+}
+
+.container {
+    padding: 30px;
+    max-width: 400px;
+    margin: auto;
+    background-color: rgb(0, 0, 0, 0.3);
+    border-radius: 30px;
+}
+
+.input-wrapper-label {
+    font-size: 20px;
+    width: 100%;
+    display: block;
+    font-weight: bolds;
+    color: #fff;
+}
+
+.input-text-style {
+    width: 100%;
+    display: block;
+    border: none;
+    background-color: #fff;
+    margin: 20px 0;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+img {
+    inline-size: 10%;
+    size-adjust: 50%;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    padding: auto;
+}
